@@ -1,0 +1,13 @@
+MAI 510 — Assignment 2.1 — Student Submission Checklist
+
+[ ] My name is visible in exported report and filenames
+[ ] Ran full experiment and justified early stopping / epoch budget
+[ ] Saved trained `.keras` model
+[ ] Included training and validation accuracy and loss charts
+[ ] Interpreted overfitting with evidence, or explained why inconclusive
+[ ] Included complete 10×10 labeled test confusion matrix
+[ ] Identified two most confused classes and reported directional counts
+[ ] Included 4 actual misclassified examples with confidence
+[ ] Wrote one-page original commentary and proposed one improvement
+[ ] Downloaded my executed .ipynb separately from Colab
+[ ] Submitted notebook, ZIP evidence and commentary to LMS
